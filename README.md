@@ -15,5 +15,5 @@
 - **GreenGrow AI Platform:** An end-to-end AgTech web application integrating a Machine Learning crop recommendation engine, live market rate data, and localized public welfare tools.
 
 ### 📈 Let's Connect!
-- 💼 LinkedIn: [Your LinkedIn Link]
+- 💼 LinkedIn: [[(https://www.linkedin.com/in/rehan-m-jatti-733b1a31b/)]
 - 📧 Email: jatti.rehan1234@gmail.com
