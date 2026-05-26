@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rehan M Jatti 👋
 
-<!--
-**rehanmjatti/rehanmjatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]B.Tech student specializing in Artificial Intelligence & Machine Learning (2023 - 2027). I bridge the gap between intelligent predictive algorithms and functional, user-centric web applications.
 
-Here are some ideas to get you started:
+### 🧠 What I Do
+- 🤖 **Applied Machine Learning:** Developing predictive models and intelligent automated solutions.
+- 💻 **Full-Stack Development:** Designing clean front-end interfaces integrated with robust data backends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, HTML, CSS, JavaScript
+- **AI/ML:** Predictive Modeling, Data Analysis, Chatbot Integration (Chatfuel)
+- **Web Dev:** Front-End Development, UI/UX Management, Systems Architecture
+
+### 🚀 Featured Projects
+- **GreenGrow AI Platform:** An end-to-end AgTech web application integrating a Machine Learning crop recommendation engine, live market rate data, and localized public welfare tools.
+
+### 📈 Let's Connect!
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: jatti.rehan1234@gmail.com
